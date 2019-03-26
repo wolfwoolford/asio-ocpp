@@ -1,3 +1,3 @@
 # asio-ocpp
 
-An open source implementation of the OCPP protocol in C++ based on Boost ASIO 
+An open source implementation of OCPP client/server code in C++ based on Boost ASIO 
